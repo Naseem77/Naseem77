@@ -5,7 +5,7 @@
 ### What I do
 
 - Full Stack developer - Frontend - Backend - Naseem-dev.com
-- Working on personal projects such as MERN stack.
+- Working on personal projects such as MERN stack & React native
 
 
 ### Connect with me
