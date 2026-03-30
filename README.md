@@ -4,7 +4,7 @@
 
 ### What I do
 
-AI · Graph Databases · Full-Stack · Infrastructure · Testing
+AI · Graph Databases · Full-Stack · Infrastructure · RAG . Testing
 
 Software Engineer working across the AI team and core infrastructure, delivering end-to-end features from backend services to production-grade UIs, with heavy involvement in open-source integrations including LangChain, Snowflake, LightRAG and Graphiti, and designs scalable E2E testing architectures.
 
