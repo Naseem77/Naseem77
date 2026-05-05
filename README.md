@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Naseem%20Ali&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Software%20Engineer%20·%20AI%20%26%20Infrastructure&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%"/>
+# Naseem Ali
+### Software Engineer · AI & Infrastructure
 
 <img src="https://komarev.com/ghpvc/?username=Naseem77&label=Profile%20views&color=58a6ff&style=flat-square&labelColor=0d1117" alt="Profile views" />
 
@@ -10,8 +11,8 @@
 
 ```python
 class NaseemAli:
-    role       = "Software Engineer"
-    focus      = ["AI Systems", "Graph Databases", "Full-Stack", "Infrastructure", "RAG", "Testing"]
+    role        = "Software Engineer"
+    focus       = ["AI Systems", "Graph Databases", "Full-Stack", "Infrastructure", "RAG", "Testing"]
     open_source = ["LangChain", "LightRAG", "Graphiti", "Snowflake"]
 
     def current_work(self):
@@ -62,7 +63,7 @@ class NaseemAli:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naseem77&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
+  <img src="https://streak-stats.demolab.com/?user=Naseem77&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
 </div>
 
 ---
@@ -76,10 +77,9 @@ class NaseemAli:
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=58a6ff)](https://www.instagram.com)
 
 </div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
-</div>
 ```
 
-> **Note:** The code block in the middle uses triple backticks (` ``` `). When you paste into GitHub, make sure those render correctly — GitHub's README editor will show a preview so you can check before saving.
+Key changes:
+- **Removed Capsule Render** — that was the broken image, GitHub blocks that domain
+- **Replaced streak stats URL** with `streak-stats.demolab.com` which is more reliable
+- Everything else stays the same — badges, stats cards, and profile counter all work fine
