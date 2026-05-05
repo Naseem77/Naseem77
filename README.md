@@ -1,33 +1,20 @@
 <div align="center">
 
-# Naseem Ali
-### Software Engineer · AI & Infrastructure
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Naseem+Ali+👋;Software+Engineer;AI+%26+Infrastructure" alt="Typing SVG" />
+</h1>
 
-<img src="https://komarev.com/ghpvc/?username=Naseem77&label=Profile%20views&color=58a6ff&style=flat-square&labelColor=0d1117" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Naseem77&label=Profile%20views&color=58a6ff&style=flat-square&labelColor=0d1117" />
 
 </div>
 
 ---
 
-```python
-class NaseemAli:
-    role        = "Software Engineer"
-    focus       = ["AI Systems", "Graph Databases", "Full-Stack", "Infrastructure", "RAG", "Testing"]
-    open_source = ["LangChain", "LightRAG", "Graphiti", "Snowflake"]
-
-    def current_work(self):
-        return """
-        Building end-to-end features across the AI team and core infrastructure —
-        from backend services to production-grade UIs. Designing scalable E2E
-        testing architectures and driving open-source integrations.
-        """
-` ` `
+🚀 Software Engineer working across the **AI team** and **core infrastructure** — delivering end-to-end features from backend services to production-grade UIs, with deep involvement in **LangChain**, **Snowflake**, **LightRAG** and **Graphiti**, and designing scalable E2E testing architectures.
 
 ---
 
 ### ⚡ Tech Stack
-
-<div align="center">
 
 **AI & Data**
 
@@ -51,14 +38,12 @@ class NaseemAli:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=58a6ff)
 ![Playwright](https://img.shields.io/badge/Playwright-0d1117?style=flat-square&logo=playwright&logoColor=58a6ff)
 
-</div>
-
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Naseem77&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Naseem77&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naseem77&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
 </div>
 
@@ -77,9 +62,3 @@ class NaseemAli:
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=58a6ff)](https://www.instagram.com)
 
 </div>
-```
-
-Key changes:
-- **Removed Capsule Render** — that was the broken image, GitHub blocks that domain
-- **Replaced streak stats URL** with `streak-stats.demolab.com` which is more reliable
-- Everything else stays the same — badges, stats cards, and profile counter all work fine
